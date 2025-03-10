@@ -16,7 +16,7 @@ Responsibilities in this role included:
  - Explaining contents of system design to customer in Japanese.
  - Setting up and facilitating Indian and Japanese team meeting and creating minutes of meeting.
 
-Main Project.
+Key Project.
  - Replacement of existing Work Order Management System for semiconductor manufacturing equipment workers.
 
 -----
@@ -28,21 +28,21 @@ Responsibilities in this role included:
  - Analyze web sites in terms of SEO.
  - Interview an end user to make specifications.
 
-Main Project.
- - Used car search web site for consumer.
-Web site by PHP-PostgreSQL, Smarty, Javascript, Linux.
-REST API for APP and Web site by PHP-MySQL, Larave/Homestead, AWS.
-Solr for searching by REST API, AWS.
-Jenkins, Git, newRelic.
-Vagrant and Ansible is used for local environment.
-Analyze web sites in terms of SEO.
+Key Project.
+ - Used car search web site for consumer. The site is one of the biggest used car web site in Japan.<br>
+Web site by PHP-PostgreSQL, Smarty, Javascript, Linux.<br>
+REST API for APP and Web site by PHP-MySQL, Larave/Homestead, AWS.<br>
+Solr for searching by REST API, AWS.<br>
+Jenkins for releasing/deploying, Git for version control, newRelic for analyzing.<br>
+Vagrant and Ansible is used for local environment.<br>
+Analyze web sites in terms of SEO.<br>
 
  - Core business system for a tire dealer.
-Web site by Java-PostgreSQL, Spring, Javascript, Linux.
-Interview an end user to make specifications.
+Web site by Java-PostgreSQL, Spring, Javascript, Linux.<br>
+Interview an end user to make specifications.<br>
 
 Skills:<br>
-PHP, Java, Visual Basic, C/C+, PostgreSQL, MySQL, Oracle, Solr, JavaScript, Spring, Laravel/Homestead
+PHP, Java, C/C++, C#, PostgreSQL, MySQL, Oracle, Solr, JavaScript, HTML, CSS, JSON, Spring, Laravel/Homestead, 
 AWS, Jenkins, Git, newRelic, Linux REST API, Vagrant, Ansible.
 
 -----
@@ -53,13 +53,12 @@ Responsibilities in this role included:
  - Responsible for the management and recruitment of software development, web development.
  - Develop a package software as a project leader.
 
-Achievements in this role included:
-Developed the following system.
- - Developed a Mode-Base-Development tool for embedded system.
-The name is “Argo Embetics”.
- It is package software and has three editions: basic / standard / professional.
- Ran a booth at ET2007 to ET2011 which was embedded technology exhibition held at PACIFICO YOKOHAMA Japan.
- Conducted some training seminars of Mode-Base-Development with the above software and tiny robot.
+Key Project.
+ - Developed a Mode-Base-Development tool for embedded system.<br>
+The name is “Argo Embetics”.<br>
+ It is package software and has three editions: basic / standard / professional.<br>
+ Ran a booth at ET2007 to ET2011 which was embedded technology exhibition held at PACIFICO YOKOHAMA Japan.<br>
+ Conducted some training seminars of Mode-Base-Development with the above software and tiny robot.<br>
 
 Skills:<br>
 Visual Basic.NET, C, HTML
@@ -74,19 +73,17 @@ Responsibilities in this role included:
  - Manage system development.
  - Interview an end user to make specifications.
 
-Achievements in this role included:
-Developed the following system.
- - Core business system for a printing company.
- - User community site of portal web site.
- - Medical care support system.
- - Particular system for Power Company.
- - Planning management system for Telecom Company.
- - Logical simulator of Railroad Company.
- - Name service system of Telecom Company.
+Key Project.
+ - Core business system for a printing company.<br>
+ - User community site of portal web site.<br>
+ - Medical care support system.<br>
+ - Particular system for Power Company.<br>
+ - Planning management system for Telecom Company.<br>
+ - Logical simulator of Railroad Company.<br>
+ - Name service system of Telecom Company.<br>
 
 Skills:
-ASP, Visual Basic, C/C+, SQL Server, Oracle, PostgreSQL, JavaScript
-
+ASP, Visual Basic, C/C++, SQL Server, Oracle, PostgreSQL, JavaScript
 
 -----
 ### Network science - Software development company (closed) (Sendai Japan) Sept 1999 - Sept 2000    
@@ -95,14 +92,13 @@ Title: Software Engineer <br>
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing) 
 
-Achievements in this role included:
-Developed the following system.
- - Fingerprint management system of government.
- - Care insurance system of government.
- - Purchase management system for Telecom Company.
+Key Project.
+ - Fingerprint management system of government.<br>
+ - Care insurance system of government.<br>
+ - Purchase management system for Telecom Company.<br>
 
 Skills:
-C/C+, Visual Basic, Cobol
+C/C++, Visual Basic, Cobol
 
 -----
 ### Ratoc system engineering - Software development company (Tokyo Japan) Apr 1996 - Dec 1998 
@@ -112,12 +108,11 @@ Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing) 
  - Customize an existing algorithm to get faster performances.
 
-Achievements in this role included:
-Developed the following system.
- - Developed design rule check system in electronic-circuit-CAD for electric company.
+Key Project.
+ - Design rule check system in electronic-circuit-CAD for electric company.
 
 Skills:
- - C/C+, Unix, Shell
+ - C/C++, Unix, Shell
 
 -----
 ## Educational History
