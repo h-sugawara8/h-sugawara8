@@ -1,4 +1,4 @@
-### I am a software engineer with 28 years of experience.<br>
+### I am a software engineer with 28 years of experience.
 I am mainly engaged in website, enterprise system, modeling system.<br>
 Main language is PHP, Java, Visual Basic.NET, C/C++, C#, JavaScript.<br>
 Main Database is PostgreSQL, MySQL, Oracle, SQL-Server.<br>
@@ -8,6 +8,7 @@ I am also familiar with Git, Jenkins, AWS, newRelic.<br>
 
 -----
 ### Metis (Tokyo Japan) Jan. 2024 - May. 2024
+Title: Bridge System engineer
 
 Responsibilities in this role included:
  - Bridge SE between Japanese company and Indian company.
@@ -20,6 +21,7 @@ Main Project.
 
 -----
 ### Iset (Sendai Japan) Sept. 2012 - Dec. 2023  (Sept. 2012 - Dec.2018 Freelance)
+Title: System engineer
 
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing)
@@ -63,7 +65,7 @@ Skills:<br>
 Visual Basic.NET, C, HTML
 
 -----
-### Freelance system engineer (Sendai Japan) Aug 2000 - July 2006    <br>
+### Freelance system engineer (Sendai Japan) Aug 2000 - July 2006
 Title: Manager / Software Engineer<br>
 
 Responsibilities in this role included:
@@ -87,7 +89,7 @@ ASP, Visual Basic, C/C+, SQL Server, Oracle, PostgreSQL, JavaScript
 
 
 -----
-### Network science - Software development company (closed) (Sendai Japan) Sept 1999 - Sept 2000<br>    
+### Network science - Software development company (closed) (Sendai Japan) Sept 1999 - Sept 2000    
 Title: Software Engineer <br>                    
 
 Responsibilities in this role included:
@@ -103,7 +105,7 @@ Skills:
 C/C+, Visual Basic, Cobol
 
 -----
-### Ratoc system engineering - Software development company (Tokyo Japan) Apr 1996 - Dec 1998 <br>
+### Ratoc system engineering - Software development company (Tokyo Japan) Apr 1996 - Dec 1998 
 Title: Software Engineer<br>
 
 Responsibilities in this role included:
@@ -118,13 +120,13 @@ Skills:
  - C/C+, Unix, Shell
 
 -----
-## Educational History<br>
+## Educational History
 University of Tsukuba (Tsukuba Japan)<br>
 April 1991 - March 1995     <br>
 Bachelor of Engineering Sciences<br>
         
 -----
-## Skills<br>
+## Skills
 Development:    PHP, Java, C/C++,  ASP, Visulal-basic.net, HTML, Javascript, CSS.<br>
 Database:       Postgresql, MySQL, Oracle, Microsoft SQL-Server.<br>
 Software:       PHP storm, Eclipse, AWS, Jenkins, git, Selenium, Visual-studio.net, ansible.<br>
@@ -133,6 +135,6 @@ OS:             Linux, Windows, Windows-Server, Unix.<br>
 Sample of work  Argo Embeics (Modeling tool for Embedded system) Visulal-basic.net<br>
 
 -----
-## Language Ability<br>
+## Language Ability
 Japanese:   Mother tongue<br>
 English:    Intermediate <br>
