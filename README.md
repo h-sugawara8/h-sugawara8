@@ -1,10 +1,10 @@
-I am a software engineer with 28 years of experience.
-I am mainly engaged in website, enterprise system, modeling system.
-Main language is PHP, Java, Visual Basic.NET, C/C++, C#, JavaScript.
-Main Database is PostgreSQL, MySQL, Oracle, SQL-Server.
-I am also familiar with Git, Jenkins, AWS, newRelic.
+##I am a software engineer with 28 years of experience.<br>
+I am mainly engaged in website, enterprise system, modeling system.<br>
+Main language is PHP, Java, Visual Basic.NET, C/C++, C#, JavaScript.<br>
+Main Database is PostgreSQL, MySQL, Oracle, SQL-Server.<br>
+I am also familiar with Git, Jenkins, AWS, newRelic.<br>
 
-Professional History
+##Professional History
 
 -----
 Metis (Tokyo Japan)
