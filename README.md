@@ -19,8 +19,7 @@ Main Project.
  - Replacement of existing Work Order Management System for semiconductor manufacturing equipment workers.
 
 -----
-## Iset (Sendai Japan)
-Sept. 2012 - Dec. 2023  (Sept. 2012 - Dec.2018 Freelance)
+### Iset (Sendai Japan) Sept. 2012 - Dec. 2023  (Sept. 2012 - Dec.2018 Freelance)
 
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing)
@@ -40,13 +39,13 @@ Analyze web sites in terms of SEO.
 Web site by Java-PostgreSQL, Spring, Javascript, Linux.
 Interview an end user to make specifications.
 
-Skills:
+Skills:<br>
 PHP, Java, Visual Basic, C/C+, PostgreSQL, MySQL, Oracle, Solr, JavaScript, Spring, Laravel/Homestead
 AWS, Jenkins, Git, newRelic, Linux REST API, Vagrant, Ansible.
 
 -----
-## Argo solutions - Software development company (closed) (Sendai Japan)
-Aug 2006 - Aug 2012 Title: Technical Manager
+### Argo solutions - Software development company (closed) (Sendai Japan) Aug 2006 - Aug 2012 
+Title: Technical Manager
 
 Responsibilities in this role included:
  - Responsible for the management and recruitment of software development, web development.
@@ -60,13 +59,11 @@ The name is “Argo Embetics”.
  Ran a booth at ET2007 to ET2011 which was embedded technology exhibition held at PACIFICO YOKOHAMA Japan.
  Conducted some training seminars of Mode-Base-Development with the above software and tiny robot.
 
-Skills:
-Visual Basic, C
-
+Skills:<br>
+Visual Basic.NET, C, HTML
 
 -----
-## Freelance system engineer (Sendai Japan)<br>
-Aug 2000 - July 2006    <br>
+### Freelance system engineer (Sendai Japan) Aug 2000 - July 2006    <br>
 Title: Manager / Software Engineer<br>
 
 Responsibilities in this role included:
@@ -90,8 +87,8 @@ ASP, Visual Basic, C/C+, SQL Server, Oracle, PostgreSQL, JavaScript
 
 
 -----
-## Network science - Software development company (closed) (Sendai Japan)<br>
-Sept 1999 - Sept 2000   Title: Software Engineer <br>                    
+### Network science - Software development company (closed) (Sendai Japan) Sept 1999 - Sept 2000<br>    
+Title: Software Engineer <br>                    
 
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing) 
@@ -106,9 +103,8 @@ Skills:
 C/C+, Visual Basic, Cobol
 
 -----
-## Ratoc system engineering - Software development company (Tokyo Japan)<br>
-Apr 1996 - Dec 1998 <br>
-Title: Software Engineer                www.ratoc.co.jp<br>
+### Ratoc system engineering - Software development company (Tokyo Japan) Apr 1996 - Dec 1998 <br>
+Title: Software Engineer<br>
 
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing) 
@@ -119,8 +115,7 @@ Developed the following system.
  - Developed design rule check system in electronic-circuit-CAD for electric company.
 
 Skills:
- - C/C+, Unix
-
+ - C/C+, Unix, Shell
 
 -----
 ## Educational History<br>
@@ -140,5 +135,4 @@ Sample of work  Argo Embeics (Modeling tool for Embedded system) Visulal-basic.n
 -----
 ## Language Ability<br>
 Japanese:   Mother tongue<br>
-English:    Intermediate (reading/writing)<br>
-            Basic (spoken)<br>
+English:    Intermediate <br>
