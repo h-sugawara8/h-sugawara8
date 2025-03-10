@@ -1,13 +1,13 @@
-##I am a software engineer with 28 years of experience.<br>
-I am mainly engaged in website, enterprise system, modeling system.<br>
-Main language is PHP, Java, Visual Basic.NET, C/C++, C#, JavaScript.<br>
-Main Database is PostgreSQL, MySQL, Oracle, SQL-Server.<br>
-I am also familiar with Git, Jenkins, AWS, newRelic.<br>
+## I am a software engineer with 28 years of experience.<br>
+ - I am mainly engaged in website, enterprise system, modeling system.<br>
+ - Main language is PHP, Java, Visual Basic.NET, C/C++, C#, JavaScript.<br>
+ - Main Database is PostgreSQL, MySQL, Oracle, SQL-Server.<br>
+ - I am also familiar with Git, Jenkins, AWS, newRelic.<br>
 
-##Professional History
+## Professional History
 
 -----
-Metis (Tokyo Japan)
+## Metis (Tokyo Japan)
 Jan. 2024 - May. 2024
 
 Responsibilities in this role included:
@@ -20,7 +20,7 @@ Main Project.
  - Replacement of existing Work Order Management System for semiconductor manufacturing equipment workers.
 
 -----
-Iset (Sendai Japan)
+## Iset (Sendai Japan)
 Sept. 2012 - Dec. 2023  (Sept. 2012 - Dec.2018 Freelance)
 
 Responsibilities in this role included:
@@ -46,7 +46,7 @@ PHP, Java, Visual Basic, C/C+, PostgreSQL, MySQL, Oracle, Solr, JavaScript, Spri
 AWS, Jenkins, Git, newRelic, Linux REST API, Vagrant, Ansible.
 
 -----
-Argo solutions - Software development company (closed) (Sendai Japan)
+## Argo solutions - Software development company (closed) (Sendai Japan)
 Aug 2006 - Aug 2012 Title: Technical Manager
 
 Responsibilities in this role included:
@@ -66,9 +66,9 @@ Visual Basic, C
 
 
 -----
-Freelance system engineer (Sendai Japan)
-Aug 2000 - July 2006    
-Title: Manager / Software Engineer
+## Freelance system engineer (Sendai Japan)<br>
+Aug 2000 - July 2006    <br>
+Title: Manager / Software Engineer<br>
 
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing) 
@@ -91,10 +91,9 @@ ASP, Visual Basic, C/C+, SQL Server, Oracle, PostgreSQL, JavaScript
 
 
 -----
-Network science - Software development company (closed) (Sendai Japan)
-Sept 1999 - Sept 2000   Title: Software Engineer                     
+## Network science - Software development company (closed) (Sendai Japan)<br>
+Sept 1999 - Sept 2000   Title: Software Engineer <br>                    
 
-Responsibilities in this role included:
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing) 
 
@@ -108,9 +107,9 @@ Skills:
 C/C+, Visual Basic, Cobol
 
 -----
-Ratoc system engineering - Software development company (Tokyo Japan)
-Apr 1996 - Dec 1998 
-Title: Software Engineer                www.ratoc.co.jp
+## Ratoc system engineering - Software development company (Tokyo Japan)<br>
+Apr 1996 - Dec 1998 <br>
+Title: Software Engineer                www.ratoc.co.jp<br>
 
 Responsibilities in this role included:
  - Develop business/control system as a member of project team.(Design / Coding / Testing) 
@@ -121,26 +120,26 @@ Developed the following system.
  - Developed design rule check system in electronic-circuit-CAD for electric company.
 
 Skills:
-C/C+, Unix
+ - C/C+, Unix
 
 
 -----
-Educational History
-University of Tsukuba (Tsukuba Japan)
-April 1991 - March 1995     
-Bachelor of Engineering Sciences
+## Educational History<br>
+University of Tsukuba (Tsukuba Japan)<br>
+April 1991 - March 1995     <br>
+Bachelor of Engineering Sciences<br>
         
 -----
-Skills
-Development:    PHP, Java, C/C++,  ASP, Visulal-basic.net, HTML, Javascript, CSS.
-Database:       Postgresql, MySQL, Oracle, Microsoft SQL-Server.
-Software:       PHP storm, Eclipse, AWS, Jenkins, git, Selenium, Visual-studio.net, ansible.
-Framework:      Laravel/Homestead, Smarty, Spring.
-OS:             Linux, Windows, Windows-Server, Unix.
-Sample of work  Argo Embeics (Modeling tool for Embedded system) Visulal-basic.net
+## Skills<br>
+Development:    PHP, Java, C/C++,  ASP, Visulal-basic.net, HTML, Javascript, CSS.<br>
+Database:       Postgresql, MySQL, Oracle, Microsoft SQL-Server.<br>
+Software:       PHP storm, Eclipse, AWS, Jenkins, git, Selenium, Visual-studio.net, ansible.<br>
+Framework:      Laravel/Homestead, Smarty, Spring.<br>
+OS:             Linux, Windows, Windows-Server, Unix.<br>
+Sample of work  Argo Embeics (Modeling tool for Embedded system) Visulal-basic.net<br>
 
 -----
-Language Ability
-Japanese:   Mother tongue
-English:    Intermediate (reading/writing)
-            Basic (spoken)
+## Language Ability<br>
+Japanese:   Mother tongue<br>
+English:    Intermediate (reading/writing)<br>
+            Basic (spoken)<br>
